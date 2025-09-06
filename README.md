@@ -7,10 +7,10 @@ Convolutional Neural Network:
 └── Deep Learning Models
     ├── EfficientNet/
         └── EfficientNetB0
-    ├── add_student.php/
-        └── sm.sql
-    ├── Inception/
-        └── sm.sql
+    ├── InceptionResNet
+        └── InceptionResNetV2
+    ├── ResNetV2
+        └── ResNet50V2
     ├── DenseNet/
         └── DenseNet121
     ├── ResNet/
