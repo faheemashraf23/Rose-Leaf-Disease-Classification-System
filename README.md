@@ -3,17 +3,19 @@
 #### CNN (Convolutional Neural Network) model
 
 ```http
-Directory structure:
-└── faheemashraf23-student-manager/
-    ├── README.md
-    ├── add_student.php
-    ├── enroll_in_course.php
-    ├── Enrollment_history.php
-    ├── functions.php
-    ├── register.php
-    ├── sm.sql
-    ├── student_list.php
-    └── css_js/
+Convolutional Neural Network:
+└── Deep Learning Models
+    ├── EfficientNet/
+        └── EfficientNetB0
+    ├── add_student.php/
         └── sm.sql
+    ├── Inception/
+        └── sm.sql
+    ├── DenseNet/
+        └── DenseNet121
+    ├── ResNet/
+        └── ResNet50
+    └── VGG/
+        └── VGG16
  
 ```
